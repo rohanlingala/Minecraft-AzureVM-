@@ -1,0 +1,17 @@
+# Bot configuration
+*config*
+!lib-bot-config.ts
+!config.ex.ts
+!tsconfig.json
+
+# Node dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Typescript build output
+build/
+
+# MongoDB container
+container-data/
