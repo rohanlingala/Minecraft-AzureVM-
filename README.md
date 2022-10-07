@@ -1,4 +1,4 @@
-# Discord Azure Boot
+# Discord Azure Bot
 Discord bot which starts and stops game servers running on Azure Virtual Machines.
 
 # Table Of Contents
